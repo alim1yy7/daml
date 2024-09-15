@@ -1,0 +1,1 @@
+Diese Repo enthält alle Fragen aus dem DAML-Modul. Die Links in den Markdown-Dateien funktionieren vermutlich nur mit [Obsidian](https://obsidian.md/)

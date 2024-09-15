@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d49a3a3dda8e520f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Zielvariable.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Zielvariable.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Zielvariable.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,10 +172,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2edbe1370b347d20",
+  "active": "d49a3a3dda8e520f",
   "lastOpenFiles": [
-    "Neuronale Netzwerke.md",
+    "3 Verfahrensmodelle.md",
+    "README.md",
     "14. Zielvariable.md",
+    "Neuronale Netzwerke.md",
     "13 k-NN.md",
     "12 Bias, Varianz, Datenpunkte (Abstände).md",
     "11 Wahrheitsmatrix.md",
@@ -179,7 +193,6 @@
     "6 IT-Architektur.md",
     "5 Datenqualität.md",
     "4 Framing.md",
-    "3 Verfahrensmodelle.md",
     "1 Begriffe und Rollen.md",
     "Glossar/Daten (Transformierung, Eigenschaften).md",
     "Untitled",
