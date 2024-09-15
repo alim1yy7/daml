@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Zielvariable.md",
-                "mode": "source",
+                "file": "8 Datenaufbereitung.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Zielvariable.md",
+                "file": "8 Datenaufbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Zielvariable.md",
+                "file": "8 Datenaufbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Zielvariable.md"
+                "file": "8 Datenaufbereitung.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "d49a3a3dda8e520f",
   "lastOpenFiles": [
-    "13 k-NN.md",
     "14. Zielvariable.md",
+    "13 k-NN.md",
     "Neuronale Netzwerke.md",
     "Glossar/Bilder.md",
     "11 Wahrheitsmatrix.md",
