@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Datenaufbereitung.md",
-                "mode": "preview",
+                "file": "14. Zielvariable.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 Datenaufbereitung.md",
+                "file": "14. Zielvariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 Datenaufbereitung.md",
+                "file": "14. Zielvariable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 Datenaufbereitung.md"
+                "file": "14. Zielvariable.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "d49a3a3dda8e520f",
   "lastOpenFiles": [
+    "8 Datenaufbereitung.md",
     "14. Zielvariable.md",
     "13 k-NN.md",
     "Neuronale Netzwerke.md",
@@ -198,7 +199,6 @@
     "images/Pasted image 20240915184157.png",
     "10 Lineare Regressionen.md",
     "images/Pasted image 20240915173958.png",
-    "8 Datenaufbereitung.md",
     "7 Dateneigenschaften.md",
     "6 IT-Architektur.md",
     "5 Datenqualität.md",
