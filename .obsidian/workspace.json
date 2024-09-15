@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "14. Zielvariable.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "14. Zielvariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "14. Zielvariable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "14. Zielvariable.md"
               }
             }
+          },
+          {
+            "id": "64329d860c9a60ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,24 +177,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d49a3a3dda8e520f",
   "lastOpenFiles": [
-    "3 Verfahrensmodelle.md",
-    "README.md",
+    "13 k-NN.md",
     "14. Zielvariable.md",
     "Neuronale Netzwerke.md",
-    "13 k-NN.md",
-    "12 Bias, Varianz, Datenpunkte (Abstände).md",
+    "Glossar/Bilder.md",
     "11 Wahrheitsmatrix.md",
+    "9 Trainings-, Test und Validierungsdaten.md",
+    "README.md",
+    "3 Verfahrensmodelle.md",
+    "12 Bias, Varianz, Datenpunkte (Abstände).md",
     "Glossar/Begriffe des Machine Learning.md",
     "2 Maschinelles Lernverfahren.md",
     "images/Pasted image 20240915184157.png",
-    "9 Trainings-, Test und Validierungsdaten.md",
     "10 Lineare Regressionen.md",
-    "Glossar/Bilder.md",
     "images/Pasted image 20240915173958.png",
     "8 Datenaufbereitung.md",
     "7 Dateneigenschaften.md",
